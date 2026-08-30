@@ -1,2 +1,2 @@
 # NEXO
-Social Media Project
+ This is a Social Media Project
